@@ -15,9 +15,8 @@
    2) Temporizador creciente.
    3) Cuenta atras.
    
-   Tamaño actual compilado 4356 bytes de programa y 419 bytes de uso de RAM
    
-* Me he contrado con varias librerias LCD_i2c con el mismo nombre pero pequeñas variaciones. Asi que para no incurrir en errores adjunto en un fichero .rar las que se usa en este montaje
+****Me he contrado con varias librerias LCD_i2c con el mismo nombre pero pequeñas variaciones. Asi que para no incurrir en errores adjunto en un fichero .rar las que se usa en este montaje****
 
 
 
